@@ -1,0 +1,49 @@
+[
+  {
+    "prompt_inputs": {
+      "height": "180 cm",
+      "weight": "72 kg",
+      "goal": "Marathon training - 3000+ calorie high-carbohydrate load with hydration strategy",
+      "restrictions": "None"
+    },
+    "solution_criteria": [
+      "Meal plan totals 3000+ calories with carbohydrates comprising 55-65% of total calories",
+      "Includes 4-5 eating occasions with specific hydration guidance integrated throughout the day",
+      "Plan is compact and presented in a single-day format with clear meal timing"
+    ],
+    "task_description": "Write a compact, concise 1 day meal plan for a single athelete",
+    "scenario": "Testing with a high-endurance athlete (marathon runner) requiring 3000+ calories with emphasis on carbohydrate loading and hydration strategies"
+  },
+  {
+    "prompt_inputs": {
+      "height": "178 cm",
+      "weight": "82 kg",
+      "goal": "High-intensity CrossFit training with muscle maintenance",
+      "restrictions": "Vegan (no animal products)"
+    },
+    "solution_criteria": [
+      "Meal plan covers all 3 meals plus snacks for one full day",
+      "All foods are plant-based with adequate protein sources (legumes, tofu, nuts, seeds)",
+      "Caloric intake supports intense training (approximately 2800-3200 calories for athlete profile)",
+      "Includes micronutrients critical for vegan athletes (iron, B12, omega-3, calcium)"
+    ],
+    "task_description": "Write a compact, concise 1 day meal plan for a single athelete",
+    "scenario": "Testing with a sport with specific dietary restrictions (vegan CrossFit athlete) requiring plant-based protein sources while meeting intense training caloric and micronutrient needs"
+  },
+  {
+    "prompt_inputs": {
+      "height": "180 cm",
+      "weight": "85 kg",
+      "goal": "Muscle gain and strength improvement for weightlifting competition",
+      "restrictions": "None"
+    },
+    "solution_criteria": [
+      "Meal plan covers all 3 meals plus pre/post-workout nutrition with timing specified",
+      "Protein intake is at least 1.6g per kg of body weight (136g+ total daily)",
+      "Includes caloric surplus appropriate for muscle gain (approximately 2800-3200 kcal)",
+      "Macros are explicitly stated or clearly calculable from meal descriptions"
+    ],
+    "task_description": "Write a compact, concise 1 day meal plan for a single athelete",
+    "scenario": "Testing with a strength-training athlete (weightlifter) requiring protein-focused meals with specific macro ratios and recovery nutrition timing"
+  }
+]
